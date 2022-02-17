@@ -1,0 +1,10 @@
+## pseudo code for the sum of the square of given numbers
+## S = Sum of square
+## N1 = Number 1
+## N2 = Number 2 
+
+FUNCTION sumOfSquare(number1, number 2)
+    sum = (Number1*Number1) + (Number2*Number2)
+    return sum
+
+
