@@ -1,0 +1,15 @@
+integer num,
+integer sum=0;
+
+while(true)
+{
+    num = get user input ;
+    if(num<0)
+    {
+        break;
+    }
+    endif
+
+    sum=sum+num;
+}
+Write sum;
